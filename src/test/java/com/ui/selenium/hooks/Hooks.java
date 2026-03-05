@@ -1,6 +1,6 @@
-package com.ui.interview.hooks;
+package com.ui.selenium.hooks;
 
-import com.ui.interview.drivers.DriverFactory;
+import com.ui.selenium.drivers.DriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;

@@ -1,6 +1,6 @@
-package com.ui.interview.drivers;
+package com.ui.selenium.drivers;
 
-import com.ui.interview.utils.ConfigReader;
+import com.ui.selenium.utils.ConfigReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

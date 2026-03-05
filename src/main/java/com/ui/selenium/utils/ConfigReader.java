@@ -1,4 +1,4 @@
-package com.ui.interview.utils;
+package com.ui.selenium.utils;
 
 import java.io.InputStream;
 import java.util.Properties;

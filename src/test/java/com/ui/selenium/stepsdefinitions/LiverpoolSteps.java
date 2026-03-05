@@ -1,7 +1,7 @@
-package com.ui.interview.stepsdefinitions;
+package com.ui.selenium.stepsdefinitions;
 
-import com.ui.interview.hooks.Hooks;
-import com.ui.interview.pages.HomePage;
+import com.ui.selenium.hooks.Hooks;
+import com.ui.selenium.pages.HomePage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
