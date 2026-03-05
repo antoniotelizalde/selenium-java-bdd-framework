@@ -1,4 +1,4 @@
-package com.ui.selenium.stepsdefinitions;
+package com.ui.selenium.steps;
 
 import com.ui.selenium.hooks.Hooks;
 import com.ui.selenium.pages.HomePage;
